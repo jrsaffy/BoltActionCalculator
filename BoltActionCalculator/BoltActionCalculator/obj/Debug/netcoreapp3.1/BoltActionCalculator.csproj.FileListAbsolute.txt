@@ -1,0 +1,13 @@
+C:\Users\jrsaf\source\repos\BoltActionCalculator\BoltActionCalculator\bin\Debug\netcoreapp3.1\BoltActionCalculator.exe
+C:\Users\jrsaf\source\repos\BoltActionCalculator\BoltActionCalculator\bin\Debug\netcoreapp3.1\BoltActionCalculator.deps.json
+C:\Users\jrsaf\source\repos\BoltActionCalculator\BoltActionCalculator\bin\Debug\netcoreapp3.1\BoltActionCalculator.runtimeconfig.json
+C:\Users\jrsaf\source\repos\BoltActionCalculator\BoltActionCalculator\bin\Debug\netcoreapp3.1\BoltActionCalculator.runtimeconfig.dev.json
+C:\Users\jrsaf\source\repos\BoltActionCalculator\BoltActionCalculator\bin\Debug\netcoreapp3.1\BoltActionCalculator.dll
+C:\Users\jrsaf\source\repos\BoltActionCalculator\BoltActionCalculator\bin\Debug\netcoreapp3.1\BoltActionCalculator.pdb
+C:\Users\jrsaf\source\repos\BoltActionCalculator\BoltActionCalculator\obj\Debug\netcoreapp3.1\BoltActionCalculator.csprojAssemblyReference.cache
+C:\Users\jrsaf\source\repos\BoltActionCalculator\BoltActionCalculator\obj\Debug\netcoreapp3.1\BoltActionCalculator.AssemblyInfoInputs.cache
+C:\Users\jrsaf\source\repos\BoltActionCalculator\BoltActionCalculator\obj\Debug\netcoreapp3.1\BoltActionCalculator.AssemblyInfo.cs
+C:\Users\jrsaf\source\repos\BoltActionCalculator\BoltActionCalculator\obj\Debug\netcoreapp3.1\BoltActionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jrsaf\source\repos\BoltActionCalculator\BoltActionCalculator\obj\Debug\netcoreapp3.1\BoltActionCalculator.dll
+C:\Users\jrsaf\source\repos\BoltActionCalculator\BoltActionCalculator\obj\Debug\netcoreapp3.1\BoltActionCalculator.pdb
+C:\Users\jrsaf\source\repos\BoltActionCalculator\BoltActionCalculator\obj\Debug\netcoreapp3.1\BoltActionCalculator.genruntimeconfig.cache
